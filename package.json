@@ -7,7 +7,7 @@
     "url": "https://github.com/e2e-boilerplate/playwright-es-modules-babel-ava/issues"
   },
   "dependencies": {
-    "ava": "3.15.0",
+    "ava": "5.3.1",
     "chromedriver": "90.0.1",
     "playwright": "1.25.2"
   },
